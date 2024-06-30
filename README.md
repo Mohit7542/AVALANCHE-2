@@ -28,4 +28,4 @@ These steps enable seamless interaction between a frontend application and an Et
 
 ## Authors
 
-Kethrin Naharwal
+Mohit Sharma
